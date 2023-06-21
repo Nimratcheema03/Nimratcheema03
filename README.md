@@ -49,7 +49,7 @@
   <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
 </p>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nimratcheema03&show_icons=true&locale=en&layout=compact" alt="nimratcheema03" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nimratcheema03&show_icons=true&locale=en&layout=compact" alt="nimratcheema03" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=nimratcheema03&show_icons=true&locale=en" alt="nimratcheema03" /></p>
 

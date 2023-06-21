@@ -3,7 +3,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nimratcheema03&label=Profile%20views&color=0e75b6&style=flat" alt="nimratcheema03" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimratcheema03" alt="nimratcheema03" /></a> </p>
+<p align="center">
+  <img align="center" width="400" style="margin-left: 20%;" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" alt="centered image" />
+</p>
+
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
